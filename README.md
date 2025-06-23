@@ -4,8 +4,8 @@
 <br>_I've always worked with visual arts—photography, video, and editing have been part of my daily life for years._
 - 🧠 Estou estudando tecnologia e buscando uma transição de carreira.
 <br>_Now, I'm studying tech and working on a career change._
-- 🖥️ É claro que eu não poderia começar por outro caminho senão o frontend.
-<br>_Of course, I had to start with frontend development!_
+- 🖥️ Estou começando por Cloud, DevOps e AI.
+<br>_I’m starting with Cloud, DevOps, and AI._
   
 - ⚡ Fun fact: Estudei programação na adolescência. Migrei pra área criativa na faculdade. E agora, depois de uns bons anos e depois de esquecer tudo, quero voltar pra tecnologia. 😅 
 <br>_I studied programming as a teenager, switched to the creative field in college, and now, after all these years (and forgetting everything), I’m ready to dive back into tech._
